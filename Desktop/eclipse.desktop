@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=Eclipse
+X-GNOME-FullName=Eclipse Luna
+Type=Application
+Exec=/usr/bin/eclipse-luna
+Terminal=false
+StartupNotify=true
+Icon=Eclipse.png

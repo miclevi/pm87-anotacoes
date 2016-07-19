@@ -1,0 +1,15 @@
+2016/07/19-18:55:17.851 10064 Reusing MANIFEST /home/agil6060/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2016/07/19-18:55:17.851 10064 Recovering log #31
+2016/07/19-18:55:17.864 10064 Reusing old log /home/agil6060/.config/google-chrome/Default/Session Storage/000031.log 
+2016/07/19-18:58:59.022 10526 Level-0 table #35: started
+2016/07/19-18:58:59.067 10526 Level-0 table #35: 26817 bytes OK
+2016/07/19-18:58:59.101 10526 Delete type=0 #31
+2016/07/19-18:58:59.101 10526 Compacting 4@0 + 1@1 files
+2016/07/19-18:58:59.178 10526 Generated table #36@0: 533 keys, 8035 bytes
+2016/07/19-18:58:59.178 10526 Compacted 4@0 + 1@1 files => 8035 bytes
+2016/07/19-18:58:59.212 10526 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/07/19-18:58:59.212 10526 Delete type=2 #32
+2016/07/19-18:58:59.212 10526 Delete type=2 #27
+2016/07/19-18:58:59.212 10526 Delete type=2 #25
+2016/07/19-18:58:59.213 10526 Delete type=2 #35
+2016/07/19-18:58:59.213 10526 Delete type=2 #30

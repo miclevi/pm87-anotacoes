@@ -1,0 +1,10 @@
+init: indicator-application main process ended, respawning
+init: indicator-application main process ended, respawning
+init: indicator-application respawning too fast, stopped
+init: unity-settings-daemon main process (5573) terminated with status 1
+init: gnome-session (Unity) main process (5579) terminated with status 1
+init: indicator-bluetooth main process (6519) killed by TERM signal
+init: indicator-power main process (6521) killed by TERM signal
+init: indicator-datetime main process (6522) killed by TERM signal
+init: indicator-session main process (6533) killed by TERM signal
+init: Disconnected from notified D-Bus bus

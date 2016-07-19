@@ -1,0 +1,11 @@
+logrotate state -- version 2
+"/home/agil6060/.cache/upstart/at-spi2-registryd.log" 2016-7-19-18:54:36
+"/home/agil6060/.cache/upstart/unity-settings-daemon.log" 2016-7-19-18:54:36
+"/home/agil6060/.cache/upstart/gnome-session-Unity.log" 2016-7-19-18:54:36
+"/home/agil6060/.cache/upstart/window-stack-bridge.log" 2016-7-19-18:54:36
+"/home/agil6060/.cache/upstart/update-notifier-release.log" 2016-7-19-18:54:36
+"/home/agil6060/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_file-roller.1243.crash.log" 2016-7-19-18:54:36
+"/home/agil6060/.cache/upstart/indicator-application.log" 2016-7-19-18:54:36
+"/home/agil6060/.cache/upstart/indicator-bluetooth.log" 2016-7-19-18:54:36
+"/home/agil6060/.cache/upstart/indicator-sound.log" 2016-7-19-18:54:36
+"/home/agil6060/.cache/upstart/dbus.log" 2016-7-19-18:54:36

@@ -1,0 +1,81 @@
+[WARNING:flash/platform/pepper/pep_module.cpp(63)] SANDBOXED
+[1:1:0719/185510:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0719/185511:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0719/185513:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0719/185517:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0719/185525:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0719/185529:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+Vector smash protection is enabled.
+[1:1:0719/185537:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0719/185539:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0719/185540:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[WARNING:flash/platform/pepper/pep_module.cpp(63)] SANDBOXED
+
+** (nm-applet:8031): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/1: uid 1256 has no permission to perform this operation
+
+** (nm-applet:8031): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/1: uid 1256 has no permission to perform this operation
+[1:1:0719/185612:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0719/185629:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0719/185630:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0719/185631:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0719/185632:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0719/185633:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0719/185633:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0719/185634:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0719/185703:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0719/185724:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0719/185727:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0719/185728:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+
+** (nm-applet:8031): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/1: uid 1256 has no permission to perform this operation
+
+** (nm-applet:8031): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/1: uid 1256 has no permission to perform this operation
+[1:1:0719/185912:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0719/185926:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+
+** (nm-applet:8031): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/1: uid 1256 has no permission to perform this operation
+
+** (nm-applet:8031): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/1: uid 1256 has no permission to perform this operation
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+
+(gnome-terminal:10689): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=256m; support was removed in 8.0
+org.eclipse.m2e.logback.configuration: The org.eclipse.m2e.logback.configuration bundle was activated before the state location was initialized.  Will retry after the state location is initialized.
+org.eclipse.m2e.logback.configuration: Logback config file: /home/agil6060/workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.5.0.20140606-0033.xml
+org.eclipse.m2e.logback.configuration: Initializing logback
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3400001 (Untitled -)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+[1:1:0719/190139:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0719/190144:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0719/190144:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0719/190206:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+
+** (nm-applet:8031): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/1: uid 1256 has no permission to perform this operation
+
+** (nm-applet:8031): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/1: uid 1256 has no permission to perform this operation
+
+** (nm-applet:8031): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/1: uid 1256 has no permission to perform this operation
+
+** (nm-applet:8031): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/1: uid 1256 has no permission to perform this operation
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3400001 (Untitled -)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+[1:1:0719/190510:ERROR:PlatformKeyboardEvent.cpp(84)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+[1:1:0719/190534:ERROR:PlatformKeyboardEvent.cpp(84)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+
+** (nm-applet:8031): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/1: uid 1256 has no permission to perform this operation
+
+** (nm-applet:8031): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/1: uid 1256 has no permission to perform this operation
+[1:1:0719/190635:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0719/190657:ERROR:PlatformKeyboardEvent.cpp(117)] Not implemented reached in static PlatformEvent::Modifiers blink::PlatformKeyboardEvent::getCurrentModifierState()
+[1:1:0719/190701:ERROR:PlatformKeyboardEvent.cpp(84)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+[WARNING:flash/platform/pepper/pep_module.cpp(63)] SANDBOXED
+
+** (nm-applet:8031): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/1: uid 1256 has no permission to perform this operation
+
+** (nm-applet:8031): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/1: uid 1256 has no permission to perform this operation
+
+** (nm-applet:8031): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/1: uid 1256 has no permission to perform this operation
+
+** (nm-applet:8031): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/1: uid 1256 has no permission to perform this operation
